@@ -1,4 +1,4 @@
-# The Fundamental of Python for Data Analyst Part 2
+# The Fundamental of Python Part 2
 
 ## Function
   - In Python, a function is a block of code that performs a specific task and can be reused multiple times throughout your program. Functions can take inputs (arguments), perform operations on them, and return outputs. They help in making the code more organized, modular, and reusable.
@@ -178,12 +178,15 @@
 ## Text File Operations
   #### Open
   - Syntax:
+
     ![Open](https://github.com/laksmiariyani9/Python-2/assets/166054815/b299771c-df51-4a1a-8f12-4e8a005f7d32)
 
   #### Read
   - Syntax:
+
     ![Read](https://github.com/laksmiariyani9/Python-2/assets/166054815/b3e532f0-e20b-4414-afc2-fcdd639534eb)
 
   #### Close
   - Syntax:
+
     ![Close](https://github.com/laksmiariyani9/Python-2/assets/166054815/920c01b5-8471-4e53-a0ba-db7b8b098e35)
