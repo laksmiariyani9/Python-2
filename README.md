@@ -5,7 +5,7 @@
   - Components of a Function
       - Function Definition: This is where you define the function using the def keyword, followed by the function name and parentheses containing any arguments.
       - Function Body: This is the block of code inside the function where the actual task is performed.
-         Return Statement: If the function needs to send back a result, it uses the return statement to return the value.
+      - Return Statement: If the function needs to send back a result, it uses the return statement to return the value.
   - Example of a Function
     - Let's define a simple function that calculates the square of a number.
 
